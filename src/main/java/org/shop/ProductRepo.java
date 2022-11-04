@@ -18,7 +18,7 @@ public class ProductRepo {
 
     public Product getProductByName(String name){
         for(Product c : productList){
-            if(c.getName().toLowerCase().equals(name.toLowerCase())){
+            if(c.getName().equalsIgnoreCase(name)){
                 return c;
             }
         }
