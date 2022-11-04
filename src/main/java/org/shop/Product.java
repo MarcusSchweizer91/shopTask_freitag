@@ -6,15 +6,17 @@ public class Product {
 
     private String name;
     private int id;
+    private static int idCounter = 1;
 
 
     // Konstruktoren
     public Product() {
     }
 
-    public Product(String name, int id) {
+    public Product(String name) {
         this.name = name;
-        this.id = id;
+        id = idCounter;
+        idCounter++;
     }
 
     // Getter & Setter
@@ -30,9 +32,7 @@ public class Product {
         return id;
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
+
 
     // Equals, HashCode, toString
     @Override
