@@ -13,7 +13,6 @@ public class Order {
 
     //Konstruktoren
 
-
     public Order() {
     }
 

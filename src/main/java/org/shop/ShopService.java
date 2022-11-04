@@ -37,5 +37,11 @@ public class ShopService {
         return orderRepo.getOrderList();
     }
 
-
+    @Override
+    public String toString() {
+        return "ShopService{" +
+                "productRepo=" + productRepo +
+                ", orderRepo=" + orderRepo +
+                '}';
+    }
 }

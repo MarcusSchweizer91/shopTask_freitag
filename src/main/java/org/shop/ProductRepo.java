@@ -10,6 +10,7 @@ public class ProductRepo {
     public List<Product> getProductList() {
         return productList;
     }
+
     // GetProductByName
     public Product getProductByName(String productName){
         for (Product product: productList) {
@@ -18,6 +19,7 @@ public class ProductRepo {
         }
         return null;
     }
+
     //GetProductByID
     public Product getProductById(int productId){
         for (Product product: productList) {
