@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df56efcc-6c42-4654-b8ec-074ea656dbcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/shop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/shop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/shop/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/shop/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/shop/OrderRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/shop/OrderRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/shop/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/shop/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/shop/ProductRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/shop/ProductRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/shop/ShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/shop/ShopService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -44,7 +43,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -56,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667557093157</updated>
       <workItem from="1667557094308" duration="3201000" />
+      <workItem from="1667561416439" duration="1729000" />
     </task>
     <servers />
   </component>
