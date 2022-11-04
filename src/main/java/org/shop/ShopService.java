@@ -1,2 +1,4 @@
-package org.shop;public class ShopService {
+package org.shop;
+
+public class ShopService {
 }

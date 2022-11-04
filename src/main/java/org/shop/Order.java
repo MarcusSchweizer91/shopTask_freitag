@@ -1,2 +1,4 @@
-package org.shop;public class Order {
+package org.shop;
+
+public class Order {
 }

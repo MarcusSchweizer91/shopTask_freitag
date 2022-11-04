@@ -1,2 +1,6 @@
-package org.shop;public class ProductRepo {
+package org.shop;
+
+public class ProductRepo {
+
+
 }

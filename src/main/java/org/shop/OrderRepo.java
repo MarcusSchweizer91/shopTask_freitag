@@ -1,2 +1,4 @@
-package org.shop;public class OrderRepo {
+package org.shop;
+
+public class OrderRepo {
 }
