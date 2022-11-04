@@ -6,7 +6,7 @@ import java.util.List;
 public class OrderRepo {
 
     //orders
-    List<Order>orderList = new ArrayList<>();
+    private List<Order>orderList = new ArrayList<>();
 
     //Getter - list()
     public List<Order> getOrderList(){
